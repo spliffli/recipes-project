@@ -4,8 +4,8 @@
  <a href="about.html">**[link]**<a>
 
 ## **Iteration 1: Initial structure**
-- [ ] 1. Within the odin-recipes directory, create an index.html file.
-- [ ] 2. Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
+- [x] 1. Within the odin-recipes directory, create an index.html file.
+- [x] 2. Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 ## **Iteration 2: Recipe Page**
 - [ ] 1. Create a new directory within the odin-recipes directory and name it recipes.
 - [ ] 2. Create a new HTML file within the recipes directory and name it after the recipe it will contain.For example lasagna.html. You can use the name of your favorite dish or, if you need some inspiration, you can find a recipe to use here.
