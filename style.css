@@ -7,6 +7,9 @@ body { font-style:italic;
 
 h1,h2,h3 { color: darkgreen; }
     /* LIST #2 */
+
+.list li { list-style-type: none; }
+
 .list li p { padding:8px; 
     font-style:normal; 
     font-family:Arial; 
