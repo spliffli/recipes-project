@@ -3,6 +3,9 @@
 ***Assignment from TheOdinProject Foundations 4.6 Recipes Project*** 
  <a href="about.html">**[link]**<a>
 
+## **Update on Feb. 7th 2022 for TOP Foundations 5.1 CSS Foundations**
+- [ ] I should style this however I want, until I'm satisfied that it look good
+
 ## **Learning Reflection**
 - [x] Completed on Feb. 6th 2022
 - Even though I already know HTML, I found this quite useful as an excercise in using git. I don't have much experience with it, and up until now I've never used the 'atomic commit' approach, but I think it makes things feel a lot more organised and logical, and I will continue to use it from now on. I can imagine git being even more useful for programming large codebases with more people collaborating.
